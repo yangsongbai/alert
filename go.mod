@@ -9,7 +9,7 @@ require (
 	github.com/fatih/structs v1.1.0
 	github.com/gin-contrib/sse v0.0.0-20190301062529-5545eab6dad3 // indirect
 	github.com/gin-gonic/gin v1.3.0
-	github.com/go-openapi/spec v0.19.0 // indirect
+	github.com/go-openapi/spec v0.19.0
 	github.com/golang/protobuf v1.3.1
 	github.com/google/gofuzz v1.0.0 // indirect
 	github.com/google/gops v0.3.6
@@ -39,7 +39,6 @@ require (
 	k8s.io/client-go v0.0.0-20181213151034-8d9ed539ba31
 	k8s.io/klog v0.3.0 // indirect
 	openpitrix.io/libqueue v0.3.1
-	openpitrix.io/logger v0.1.0
 	sigs.k8s.io/yaml v1.1.0 // indirect
 )
 
